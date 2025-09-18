@@ -16,8 +16,8 @@ The goal is to enable data-driven decision making by analyzing KPIs, sales trend
 
 📷 Dashboard Preview
 
-Screenshot 2025-09-18 041757.png
-
+flipkart-powerbi-dashboard
+/Screenshot 2025-09-18 041757.png
 
 
 
