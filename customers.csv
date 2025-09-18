@@ -1,0 +1,501 @@
+CustomerID,CustomerName,State,AgeGroup
+C0001,Customer 1,Karnataka,18-25
+C0002,Customer 2,West Bengal,26-35
+C0003,Customer 3,Delhi,26-35
+C0004,Customer 4,Karnataka,56+
+C0005,Customer 5,Karnataka,56+
+C0006,Customer 6,Uttar Pradesh,18-25
+C0007,Customer 7,Maharashtra,18-25
+C0008,Customer 8,Delhi,26-35
+C0009,Customer 9,Maharashtra,56+
+C0010,Customer 10,Delhi,56+
+C0011,Customer 11,Uttar Pradesh,26-35
+C0012,Customer 12,Kerala,56+
+C0013,Customer 13,West Bengal,18-25
+C0014,Customer 14,Tamil Nadu,46-55
+C0015,Customer 15,Gujarat,36-45
+C0016,Customer 16,Tamil Nadu,26-35
+C0017,Customer 17,Gujarat,18-25
+C0018,Customer 18,Karnataka,46-55
+C0019,Customer 19,Karnataka,36-45
+C0020,Customer 20,Gujarat,56+
+C0021,Customer 21,West Bengal,18-25
+C0022,Customer 22,Kerala,56+
+C0023,Customer 23,Karnataka,46-55
+C0024,Customer 24,Karnataka,56+
+C0025,Customer 25,West Bengal,56+
+C0026,Customer 26,Gujarat,56+
+C0027,Customer 27,Delhi,18-25
+C0028,Customer 28,Maharashtra,26-35
+C0029,Customer 29,West Bengal,18-25
+C0030,Customer 30,Delhi,18-25
+C0031,Customer 31,Uttar Pradesh,36-45
+C0032,Customer 32,Kerala,36-45
+C0033,Customer 33,Tamil Nadu,36-45
+C0034,Customer 34,Gujarat,26-35
+C0035,Customer 35,West Bengal,18-25
+C0036,Customer 36,Tamil Nadu,56+
+C0037,Customer 37,Delhi,26-35
+C0038,Customer 38,Kerala,46-55
+C0039,Customer 39,West Bengal,56+
+C0040,Customer 40,Delhi,36-45
+C0041,Customer 41,Maharashtra,26-35
+C0042,Customer 42,Maharashtra,36-45
+C0043,Customer 43,Uttar Pradesh,36-45
+C0044,Customer 44,Karnataka,26-35
+C0045,Customer 45,Gujarat,26-35
+C0046,Customer 46,Kerala,46-55
+C0047,Customer 47,Kerala,26-35
+C0048,Customer 48,West Bengal,26-35
+C0049,Customer 49,Delhi,56+
+C0050,Customer 50,West Bengal,56+
+C0051,Customer 51,Uttar Pradesh,56+
+C0052,Customer 52,Uttar Pradesh,36-45
+C0053,Customer 53,Delhi,26-35
+C0054,Customer 54,Kerala,18-25
+C0055,Customer 55,Maharashtra,18-25
+C0056,Customer 56,Tamil Nadu,26-35
+C0057,Customer 57,Uttar Pradesh,56+
+C0058,Customer 58,Karnataka,46-55
+C0059,Customer 59,Uttar Pradesh,56+
+C0060,Customer 60,Kerala,56+
+C0061,Customer 61,West Bengal,56+
+C0062,Customer 62,Maharashtra,18-25
+C0063,Customer 63,West Bengal,36-45
+C0064,Customer 64,Karnataka,36-45
+C0065,Customer 65,Uttar Pradesh,26-35
+C0066,Customer 66,Kerala,18-25
+C0067,Customer 67,West Bengal,56+
+C0068,Customer 68,Tamil Nadu,56+
+C0069,Customer 69,Karnataka,36-45
+C0070,Customer 70,Delhi,26-35
+C0071,Customer 71,Gujarat,26-35
+C0072,Customer 72,Maharashtra,56+
+C0073,Customer 73,Gujarat,46-55
+C0074,Customer 74,Maharashtra,18-25
+C0075,Customer 75,Gujarat,36-45
+C0076,Customer 76,Delhi,18-25
+C0077,Customer 77,Delhi,56+
+C0078,Customer 78,Karnataka,18-25
+C0079,Customer 79,Kerala,18-25
+C0080,Customer 80,Tamil Nadu,26-35
+C0081,Customer 81,Kerala,56+
+C0082,Customer 82,Tamil Nadu,36-45
+C0083,Customer 83,Uttar Pradesh,26-35
+C0084,Customer 84,Delhi,36-45
+C0085,Customer 85,Uttar Pradesh,36-45
+C0086,Customer 86,Kerala,56+
+C0087,Customer 87,Kerala,18-25
+C0088,Customer 88,Delhi,26-35
+C0089,Customer 89,Karnataka,36-45
+C0090,Customer 90,Maharashtra,56+
+C0091,Customer 91,Delhi,56+
+C0092,Customer 92,Delhi,18-25
+C0093,Customer 93,Karnataka,18-25
+C0094,Customer 94,Delhi,18-25
+C0095,Customer 95,Maharashtra,36-45
+C0096,Customer 96,Karnataka,56+
+C0097,Customer 97,Delhi,36-45
+C0098,Customer 98,Kerala,26-35
+C0099,Customer 99,Tamil Nadu,56+
+C0100,Customer 100,Kerala,26-35
+C0101,Customer 101,Kerala,46-55
+C0102,Customer 102,Delhi,18-25
+C0103,Customer 103,Karnataka,46-55
+C0104,Customer 104,Gujarat,46-55
+C0105,Customer 105,Uttar Pradesh,46-55
+C0106,Customer 106,Maharashtra,18-25
+C0107,Customer 107,Maharashtra,46-55
+C0108,Customer 108,Gujarat,18-25
+C0109,Customer 109,Delhi,26-35
+C0110,Customer 110,Delhi,56+
+C0111,Customer 111,Kerala,26-35
+C0112,Customer 112,Uttar Pradesh,26-35
+C0113,Customer 113,West Bengal,46-55
+C0114,Customer 114,Delhi,18-25
+C0115,Customer 115,Kerala,56+
+C0116,Customer 116,Karnataka,18-25
+C0117,Customer 117,Maharashtra,18-25
+C0118,Customer 118,Delhi,26-35
+C0119,Customer 119,Uttar Pradesh,46-55
+C0120,Customer 120,Kerala,26-35
+C0121,Customer 121,Uttar Pradesh,18-25
+C0122,Customer 122,Tamil Nadu,46-55
+C0123,Customer 123,Maharashtra,46-55
+C0124,Customer 124,West Bengal,46-55
+C0125,Customer 125,West Bengal,46-55
+C0126,Customer 126,Kerala,26-35
+C0127,Customer 127,Delhi,36-45
+C0128,Customer 128,Delhi,18-25
+C0129,Customer 129,Maharashtra,36-45
+C0130,Customer 130,Maharashtra,18-25
+C0131,Customer 131,Kerala,56+
+C0132,Customer 132,Tamil Nadu,18-25
+C0133,Customer 133,Karnataka,26-35
+C0134,Customer 134,Karnataka,56+
+C0135,Customer 135,Karnataka,26-35
+C0136,Customer 136,Uttar Pradesh,18-25
+C0137,Customer 137,Delhi,56+
+C0138,Customer 138,Maharashtra,56+
+C0139,Customer 139,Karnataka,46-55
+C0140,Customer 140,Gujarat,36-45
+C0141,Customer 141,Delhi,36-45
+C0142,Customer 142,Delhi,36-45
+C0143,Customer 143,Uttar Pradesh,26-35
+C0144,Customer 144,West Bengal,46-55
+C0145,Customer 145,Gujarat,18-25
+C0146,Customer 146,Maharashtra,46-55
+C0147,Customer 147,Karnataka,18-25
+C0148,Customer 148,Delhi,56+
+C0149,Customer 149,West Bengal,26-35
+C0150,Customer 150,Gujarat,18-25
+C0151,Customer 151,Delhi,36-45
+C0152,Customer 152,West Bengal,26-35
+C0153,Customer 153,Kerala,56+
+C0154,Customer 154,West Bengal,56+
+C0155,Customer 155,Maharashtra,56+
+C0156,Customer 156,West Bengal,18-25
+C0157,Customer 157,Tamil Nadu,36-45
+C0158,Customer 158,Karnataka,18-25
+C0159,Customer 159,Tamil Nadu,36-45
+C0160,Customer 160,West Bengal,56+
+C0161,Customer 161,Delhi,36-45
+C0162,Customer 162,Delhi,36-45
+C0163,Customer 163,Kerala,36-45
+C0164,Customer 164,Maharashtra,18-25
+C0165,Customer 165,Uttar Pradesh,36-45
+C0166,Customer 166,Maharashtra,18-25
+C0167,Customer 167,Gujarat,26-35
+C0168,Customer 168,West Bengal,26-35
+C0169,Customer 169,Kerala,56+
+C0170,Customer 170,Uttar Pradesh,56+
+C0171,Customer 171,Maharashtra,18-25
+C0172,Customer 172,Karnataka,26-35
+C0173,Customer 173,Maharashtra,36-45
+C0174,Customer 174,Tamil Nadu,46-55
+C0175,Customer 175,Tamil Nadu,18-25
+C0176,Customer 176,West Bengal,36-45
+C0177,Customer 177,Maharashtra,36-45
+C0178,Customer 178,Delhi,26-35
+C0179,Customer 179,Karnataka,36-45
+C0180,Customer 180,Uttar Pradesh,56+
+C0181,Customer 181,Tamil Nadu,26-35
+C0182,Customer 182,Tamil Nadu,26-35
+C0183,Customer 183,Uttar Pradesh,18-25
+C0184,Customer 184,Tamil Nadu,36-45
+C0185,Customer 185,Uttar Pradesh,26-35
+C0186,Customer 186,West Bengal,26-35
+C0187,Customer 187,Karnataka,46-55
+C0188,Customer 188,Maharashtra,46-55
+C0189,Customer 189,Delhi,26-35
+C0190,Customer 190,Kerala,36-45
+C0191,Customer 191,West Bengal,26-35
+C0192,Customer 192,Delhi,18-25
+C0193,Customer 193,Delhi,46-55
+C0194,Customer 194,Gujarat,36-45
+C0195,Customer 195,Karnataka,36-45
+C0196,Customer 196,Gujarat,56+
+C0197,Customer 197,Uttar Pradesh,56+
+C0198,Customer 198,Gujarat,18-25
+C0199,Customer 199,Karnataka,36-45
+C0200,Customer 200,Tamil Nadu,56+
+C0201,Customer 201,West Bengal,18-25
+C0202,Customer 202,Karnataka,56+
+C0203,Customer 203,Uttar Pradesh,36-45
+C0204,Customer 204,Gujarat,46-55
+C0205,Customer 205,Karnataka,46-55
+C0206,Customer 206,Delhi,36-45
+C0207,Customer 207,Maharashtra,46-55
+C0208,Customer 208,Maharashtra,56+
+C0209,Customer 209,Delhi,36-45
+C0210,Customer 210,Uttar Pradesh,18-25
+C0211,Customer 211,Gujarat,56+
+C0212,Customer 212,Gujarat,18-25
+C0213,Customer 213,West Bengal,56+
+C0214,Customer 214,West Bengal,46-55
+C0215,Customer 215,Gujarat,46-55
+C0216,Customer 216,West Bengal,56+
+C0217,Customer 217,Tamil Nadu,26-35
+C0218,Customer 218,Uttar Pradesh,46-55
+C0219,Customer 219,Tamil Nadu,56+
+C0220,Customer 220,West Bengal,46-55
+C0221,Customer 221,Maharashtra,36-45
+C0222,Customer 222,West Bengal,26-35
+C0223,Customer 223,Uttar Pradesh,56+
+C0224,Customer 224,Gujarat,46-55
+C0225,Customer 225,Kerala,46-55
+C0226,Customer 226,Delhi,56+
+C0227,Customer 227,Kerala,26-35
+C0228,Customer 228,Karnataka,36-45
+C0229,Customer 229,Gujarat,18-25
+C0230,Customer 230,Delhi,36-45
+C0231,Customer 231,Delhi,26-35
+C0232,Customer 232,Tamil Nadu,18-25
+C0233,Customer 233,Maharashtra,26-35
+C0234,Customer 234,Kerala,56+
+C0235,Customer 235,Karnataka,46-55
+C0236,Customer 236,Uttar Pradesh,56+
+C0237,Customer 237,Delhi,46-55
+C0238,Customer 238,Kerala,46-55
+C0239,Customer 239,Delhi,26-35
+C0240,Customer 240,Maharashtra,18-25
+C0241,Customer 241,Uttar Pradesh,26-35
+C0242,Customer 242,Tamil Nadu,56+
+C0243,Customer 243,Kerala,18-25
+C0244,Customer 244,Delhi,18-25
+C0245,Customer 245,Kerala,26-35
+C0246,Customer 246,Kerala,56+
+C0247,Customer 247,Gujarat,46-55
+C0248,Customer 248,Uttar Pradesh,56+
+C0249,Customer 249,Kerala,26-35
+C0250,Customer 250,Kerala,46-55
+C0251,Customer 251,West Bengal,26-35
+C0252,Customer 252,West Bengal,56+
+C0253,Customer 253,Kerala,26-35
+C0254,Customer 254,West Bengal,46-55
+C0255,Customer 255,Karnataka,36-45
+C0256,Customer 256,Delhi,36-45
+C0257,Customer 257,Gujarat,36-45
+C0258,Customer 258,Karnataka,26-35
+C0259,Customer 259,Tamil Nadu,26-35
+C0260,Customer 260,Uttar Pradesh,26-35
+C0261,Customer 261,Delhi,18-25
+C0262,Customer 262,Uttar Pradesh,46-55
+C0263,Customer 263,Gujarat,56+
+C0264,Customer 264,Kerala,46-55
+C0265,Customer 265,Maharashtra,26-35
+C0266,Customer 266,Uttar Pradesh,46-55
+C0267,Customer 267,Maharashtra,56+
+C0268,Customer 268,Uttar Pradesh,46-55
+C0269,Customer 269,Maharashtra,36-45
+C0270,Customer 270,West Bengal,46-55
+C0271,Customer 271,Uttar Pradesh,56+
+C0272,Customer 272,Delhi,46-55
+C0273,Customer 273,Delhi,36-45
+C0274,Customer 274,Uttar Pradesh,46-55
+C0275,Customer 275,Maharashtra,46-55
+C0276,Customer 276,Gujarat,46-55
+C0277,Customer 277,Tamil Nadu,46-55
+C0278,Customer 278,Tamil Nadu,56+
+C0279,Customer 279,Maharashtra,46-55
+C0280,Customer 280,Maharashtra,18-25
+C0281,Customer 281,Uttar Pradesh,26-35
+C0282,Customer 282,Kerala,26-35
+C0283,Customer 283,Maharashtra,36-45
+C0284,Customer 284,Uttar Pradesh,36-45
+C0285,Customer 285,Delhi,46-55
+C0286,Customer 286,Gujarat,36-45
+C0287,Customer 287,Uttar Pradesh,36-45
+C0288,Customer 288,Uttar Pradesh,36-45
+C0289,Customer 289,Karnataka,46-55
+C0290,Customer 290,Maharashtra,56+
+C0291,Customer 291,Maharashtra,36-45
+C0292,Customer 292,Delhi,18-25
+C0293,Customer 293,Maharashtra,18-25
+C0294,Customer 294,Delhi,26-35
+C0295,Customer 295,Maharashtra,56+
+C0296,Customer 296,Tamil Nadu,26-35
+C0297,Customer 297,Tamil Nadu,46-55
+C0298,Customer 298,Karnataka,56+
+C0299,Customer 299,Delhi,46-55
+C0300,Customer 300,West Bengal,36-45
+C0301,Customer 301,Tamil Nadu,56+
+C0302,Customer 302,Karnataka,26-35
+C0303,Customer 303,West Bengal,18-25
+C0304,Customer 304,Maharashtra,36-45
+C0305,Customer 305,Uttar Pradesh,46-55
+C0306,Customer 306,Delhi,18-25
+C0307,Customer 307,Delhi,18-25
+C0308,Customer 308,West Bengal,56+
+C0309,Customer 309,Karnataka,56+
+C0310,Customer 310,Maharashtra,36-45
+C0311,Customer 311,Uttar Pradesh,36-45
+C0312,Customer 312,Karnataka,56+
+C0313,Customer 313,Gujarat,18-25
+C0314,Customer 314,Uttar Pradesh,46-55
+C0315,Customer 315,Karnataka,46-55
+C0316,Customer 316,Gujarat,46-55
+C0317,Customer 317,Tamil Nadu,46-55
+C0318,Customer 318,Tamil Nadu,56+
+C0319,Customer 319,West Bengal,56+
+C0320,Customer 320,Kerala,46-55
+C0321,Customer 321,Uttar Pradesh,56+
+C0322,Customer 322,West Bengal,36-45
+C0323,Customer 323,Delhi,18-25
+C0324,Customer 324,West Bengal,46-55
+C0325,Customer 325,Delhi,46-55
+C0326,Customer 326,Uttar Pradesh,36-45
+C0327,Customer 327,Maharashtra,46-55
+C0328,Customer 328,Gujarat,26-35
+C0329,Customer 329,Kerala,26-35
+C0330,Customer 330,Gujarat,36-45
+C0331,Customer 331,Gujarat,36-45
+C0332,Customer 332,West Bengal,56+
+C0333,Customer 333,Maharashtra,56+
+C0334,Customer 334,Delhi,18-25
+C0335,Customer 335,Delhi,46-55
+C0336,Customer 336,Kerala,56+
+C0337,Customer 337,Delhi,46-55
+C0338,Customer 338,Kerala,46-55
+C0339,Customer 339,Maharashtra,18-25
+C0340,Customer 340,West Bengal,26-35
+C0341,Customer 341,Uttar Pradesh,26-35
+C0342,Customer 342,West Bengal,56+
+C0343,Customer 343,Gujarat,46-55
+C0344,Customer 344,Gujarat,46-55
+C0345,Customer 345,Gujarat,36-45
+C0346,Customer 346,Kerala,36-45
+C0347,Customer 347,West Bengal,36-45
+C0348,Customer 348,Delhi,18-25
+C0349,Customer 349,Delhi,36-45
+C0350,Customer 350,Karnataka,56+
+C0351,Customer 351,Tamil Nadu,26-35
+C0352,Customer 352,Delhi,46-55
+C0353,Customer 353,West Bengal,56+
+C0354,Customer 354,West Bengal,18-25
+C0355,Customer 355,Delhi,36-45
+C0356,Customer 356,Delhi,36-45
+C0357,Customer 357,Tamil Nadu,36-45
+C0358,Customer 358,Maharashtra,56+
+C0359,Customer 359,Tamil Nadu,36-45
+C0360,Customer 360,Maharashtra,18-25
+C0361,Customer 361,West Bengal,26-35
+C0362,Customer 362,Kerala,18-25
+C0363,Customer 363,Maharashtra,56+
+C0364,Customer 364,West Bengal,46-55
+C0365,Customer 365,Kerala,46-55
+C0366,Customer 366,Gujarat,26-35
+C0367,Customer 367,Maharashtra,36-45
+C0368,Customer 368,Kerala,18-25
+C0369,Customer 369,Karnataka,46-55
+C0370,Customer 370,Kerala,18-25
+C0371,Customer 371,Maharashtra,26-35
+C0372,Customer 372,Tamil Nadu,56+
+C0373,Customer 373,West Bengal,18-25
+C0374,Customer 374,Delhi,18-25
+C0375,Customer 375,Uttar Pradesh,56+
+C0376,Customer 376,Delhi,56+
+C0377,Customer 377,Uttar Pradesh,46-55
+C0378,Customer 378,Kerala,36-45
+C0379,Customer 379,Uttar Pradesh,36-45
+C0380,Customer 380,Maharashtra,56+
+C0381,Customer 381,Karnataka,26-35
+C0382,Customer 382,Delhi,36-45
+C0383,Customer 383,Karnataka,26-35
+C0384,Customer 384,Delhi,26-35
+C0385,Customer 385,Karnataka,26-35
+C0386,Customer 386,Maharashtra,46-55
+C0387,Customer 387,Kerala,56+
+C0388,Customer 388,Kerala,36-45
+C0389,Customer 389,Maharashtra,26-35
+C0390,Customer 390,West Bengal,36-45
+C0391,Customer 391,Kerala,18-25
+C0392,Customer 392,Delhi,36-45
+C0393,Customer 393,Delhi,46-55
+C0394,Customer 394,Karnataka,56+
+C0395,Customer 395,Delhi,26-35
+C0396,Customer 396,West Bengal,26-35
+C0397,Customer 397,Karnataka,18-25
+C0398,Customer 398,Tamil Nadu,36-45
+C0399,Customer 399,West Bengal,46-55
+C0400,Customer 400,Karnataka,46-55
+C0401,Customer 401,West Bengal,46-55
+C0402,Customer 402,West Bengal,56+
+C0403,Customer 403,Kerala,46-55
+C0404,Customer 404,Karnataka,56+
+C0405,Customer 405,Maharashtra,46-55
+C0406,Customer 406,Gujarat,56+
+C0407,Customer 407,West Bengal,18-25
+C0408,Customer 408,Karnataka,26-35
+C0409,Customer 409,Maharashtra,36-45
+C0410,Customer 410,Maharashtra,26-35
+C0411,Customer 411,Kerala,56+
+C0412,Customer 412,Kerala,36-45
+C0413,Customer 413,Tamil Nadu,56+
+C0414,Customer 414,Uttar Pradesh,46-55
+C0415,Customer 415,Karnataka,46-55
+C0416,Customer 416,Gujarat,46-55
+C0417,Customer 417,Gujarat,36-45
+C0418,Customer 418,Karnataka,26-35
+C0419,Customer 419,Gujarat,46-55
+C0420,Customer 420,Kerala,36-45
+C0421,Customer 421,Uttar Pradesh,56+
+C0422,Customer 422,Maharashtra,46-55
+C0423,Customer 423,Karnataka,36-45
+C0424,Customer 424,West Bengal,36-45
+C0425,Customer 425,Karnataka,46-55
+C0426,Customer 426,Maharashtra,56+
+C0427,Customer 427,Kerala,46-55
+C0428,Customer 428,Maharashtra,26-35
+C0429,Customer 429,Gujarat,56+
+C0430,Customer 430,Kerala,46-55
+C0431,Customer 431,Maharashtra,26-35
+C0432,Customer 432,West Bengal,56+
+C0433,Customer 433,Tamil Nadu,36-45
+C0434,Customer 434,Kerala,46-55
+C0435,Customer 435,Karnataka,18-25
+C0436,Customer 436,Delhi,26-35
+C0437,Customer 437,West Bengal,56+
+C0438,Customer 438,Maharashtra,56+
+C0439,Customer 439,Uttar Pradesh,18-25
+C0440,Customer 440,Delhi,18-25
+C0441,Customer 441,Kerala,18-25
+C0442,Customer 442,Tamil Nadu,46-55
+C0443,Customer 443,West Bengal,56+
+C0444,Customer 444,West Bengal,46-55
+C0445,Customer 445,Kerala,46-55
+C0446,Customer 446,Delhi,46-55
+C0447,Customer 447,Tamil Nadu,46-55
+C0448,Customer 448,Delhi,56+
+C0449,Customer 449,Tamil Nadu,18-25
+C0450,Customer 450,West Bengal,46-55
+C0451,Customer 451,Gujarat,56+
+C0452,Customer 452,West Bengal,18-25
+C0453,Customer 453,West Bengal,36-45
+C0454,Customer 454,Kerala,26-35
+C0455,Customer 455,Kerala,56+
+C0456,Customer 456,Kerala,36-45
+C0457,Customer 457,Gujarat,56+
+C0458,Customer 458,Uttar Pradesh,46-55
+C0459,Customer 459,Gujarat,26-35
+C0460,Customer 460,Delhi,56+
+C0461,Customer 461,Uttar Pradesh,26-35
+C0462,Customer 462,Uttar Pradesh,18-25
+C0463,Customer 463,Gujarat,46-55
+C0464,Customer 464,Uttar Pradesh,46-55
+C0465,Customer 465,Tamil Nadu,46-55
+C0466,Customer 466,Maharashtra,26-35
+C0467,Customer 467,Gujarat,18-25
+C0468,Customer 468,Kerala,18-25
+C0469,Customer 469,Kerala,18-25
+C0470,Customer 470,Tamil Nadu,46-55
+C0471,Customer 471,Tamil Nadu,18-25
+C0472,Customer 472,Kerala,36-45
+C0473,Customer 473,Gujarat,56+
+C0474,Customer 474,Uttar Pradesh,18-25
+C0475,Customer 475,Gujarat,56+
+C0476,Customer 476,Uttar Pradesh,36-45
+C0477,Customer 477,Kerala,56+
+C0478,Customer 478,Maharashtra,56+
+C0479,Customer 479,Karnataka,26-35
+C0480,Customer 480,West Bengal,26-35
+C0481,Customer 481,Karnataka,46-55
+C0482,Customer 482,Karnataka,18-25
+C0483,Customer 483,Kerala,26-35
+C0484,Customer 484,West Bengal,18-25
+C0485,Customer 485,Maharashtra,36-45
+C0486,Customer 486,Maharashtra,36-45
+C0487,Customer 487,Gujarat,36-45
+C0488,Customer 488,Uttar Pradesh,26-35
+C0489,Customer 489,Delhi,56+
+C0490,Customer 490,Uttar Pradesh,56+
+C0491,Customer 491,Tamil Nadu,26-35
+C0492,Customer 492,Tamil Nadu,18-25
+C0493,Customer 493,Uttar Pradesh,56+
+C0494,Customer 494,Delhi,46-55
+C0495,Customer 495,Tamil Nadu,26-35
+C0496,Customer 496,Kerala,36-45
+C0497,Customer 497,Kerala,36-45
+C0498,Customer 498,Maharashtra,46-55
+C0499,Customer 499,West Bengal,56+
+C0500,Customer 500,Tamil Nadu,18-25
