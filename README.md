@@ -16,7 +16,7 @@ The goal is to enable data-driven decision making by analyzing KPIs, sales trend
 
 📷 Dashboard Preview
 
-(Add your screenshots here like below – already uploaded to repo)
+Screenshot 2025-09-18 041757.png
 
 
 
