@@ -14,13 +14,6 @@ The goal is to enable data-driven decision making by analyzing KPIs, sales trend
 ✔️ Interactive Slicers – Year, Category, State filters
 ✔️ Modern UI/Theme – Flipkart-style dark theme with sidebar navigation
 
-📷 Dashboard Preview
-
-flipkart-powerbi-dashboard
-/Screenshot 2025-09-18 041757.png
-
-
-
 🛠️ Tools & Technologies
 
 Power BI – Data modeling & visualization
